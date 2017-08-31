@@ -6,7 +6,7 @@ CFLAGS = -c -Wall
 # EXECUTABLE_NAME is the name of the program to run
 # SOURCES should include all the .cpp files to compile
 EXECUTABLE_NAME = os
-SOURCES = main.cpp
+SOURCES = main.cpp Memory.cpp CPU.cpp IO.cpp
 OBJECTS = $(SOURCES:.cpp=.o)
 
 all: $(EXECUTABLE_NAME)
