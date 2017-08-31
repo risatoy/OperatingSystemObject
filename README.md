@@ -1,5 +1,5 @@
 # OperatingSystemProject
-Program that simulates some aspects of operating systems. 
+Program that simulates CPU and Memory allocation in the context of multi-level scheduling to understand how they work in operating system.
 
 ## Commands detail
  ```
